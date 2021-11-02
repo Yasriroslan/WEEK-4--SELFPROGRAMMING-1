@@ -1,0 +1,15 @@
+package SELFPROGRAMMING;
+
+public class casting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int total = 50;
+		float result = (float) total / 6;
+		
+		System.out.println("The resulth is " + result);
+		
+			
+	}
+
+}
